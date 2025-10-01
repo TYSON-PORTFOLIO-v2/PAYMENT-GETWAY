@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -529,7 +529,7 @@
       
       <div class="upi-section">
         <p>Please use the following UPI ID to complete your payment:</p>
-        <div class="upi-id" id="upiIdDisplay">legendxowner@ybl</div>
+        <div class="upi-id" id="upiIdDisplay">9060766153@naviaxis</div>
         <p>If the UPI app doesn't open automatically, please copy this ID and paste it in your payment app.</p>
       </div>
       
@@ -563,7 +563,7 @@
     const successMessage = document.getElementById('successMessage');
 
     // Constants
-    const upiId = 'legendxowner@ybl';
+    const upiId = '9060766153@naviaxis';
     const merchantName = 'TYSON HACK';
 
     // Generate a transaction ID
